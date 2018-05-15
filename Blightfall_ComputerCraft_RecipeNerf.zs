@@ -32,7 +32,7 @@ recipes.addShaped(<ComputerCraft:CC-Peripheral:4> * 4,[[<ore:ingotElectrum>,<app
 recipes.addShaped(<ComputerCraft:CC-Peripheral>,[[<ore:ingotIron>,<appliedenergistics2:item.ItemMultiMaterial:22>,<ore:ingotIron>],[<appliedenergistics2:item.ItemMultiMaterial:23>,<appliedenergistics2:tile.BlockQuartzTorch>,<appliedenergistics2:item.ItemMultiMaterial:24>],[<ore:ingotIron>,<Automagy:blockRedcrystal>,<ore:ingotIron>]]);
 recipes.addShaped(<ComputerCraft:CC-Peripheral:3>,[[<ore:dyeCyan>,<ore:dyeMagenta>,<ore:dyeYellow>],[<appliedenergistics2:item.ItemMultiMaterial:22>,<appliedenergistics2:tile.BlockQuartzTorch>,<appliedenergistics2:item.ItemMultiMaterial:24>],[<ore:ingotIron>,<ore:dyeBlack>,<ore:ingotIron>]]);
 recipes.addShaped(<ComputerCraft:CC-Cable:1>,[[null,<ore:ingotIron>,null],[<appliedenergistics2:item.ItemMultiMaterial:22>,<ore:dustRedstone>,<appliedenergistics2:item.ItemMultiMaterial:22>],[null,<ore:ingotIron>,null]]);
-recipes.addShapeless(<ComputerCraft:CC-Cable>,[<ore:ingotIron>,<ore:dustRedstone>,<ore:ingotCopper>,<ore:sheetPlastic>]);
+recipes.addShapeless(<ComputerCraft:CC-Cable>*8,[<ore:ingotIron>,<ore:dustRedstone>,<ore:ingotCopper>,<ore:sheetPlastic>]);
 //disks
 recipes.addShapeless(<ComputerCraft:diskExpanded>.withTag({color: 1644825}),[<MineFactoryReloaded:plastic.sheet>,<Automagy:blockRedcrystal>,<appliedenergistics2:item.ItemMultiMaterial:36>,<ore:dyeBlack>]);
 recipes.addShapeless(<ComputerCraft:diskExpanded>.withTag({color: 13388876}),[<MineFactoryReloaded:plastic.sheet>,<Automagy:blockRedcrystal>,<appliedenergistics2:item.ItemMultiMaterial:36>,<ore:dyeRed>]);
